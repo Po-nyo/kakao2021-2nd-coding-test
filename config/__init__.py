@@ -1,3 +1,3 @@
 __all__ = [
-    'app_properties.py',
+    'app_properties',
 ]

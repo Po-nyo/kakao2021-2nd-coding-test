@@ -1,6 +1,6 @@
 from . import base_requester
 from config import app_properties
-from model.model import Location, Truck
+from model.models import Location, Truck
 
 
 class KakaoApiRequester:
